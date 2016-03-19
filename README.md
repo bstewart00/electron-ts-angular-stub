@@ -3,8 +3,7 @@ Electron + Typescript + Angular example project
 
 Good for the following use cases:
 - Typescript for both the electron and browser application
-- SystemJS + Angular used in the webpage
-- LESS
+- SystemJS, Angular, LESS used in the webpage
 - Typings (not TSD!)
 - Gulp as the build process
 
