@@ -7,3 +7,8 @@ Good for the following use cases:
 - LESS
 - Typings (not TSD!)
 - Gulp as the build process
+
+## Usage
+```
+npm install && npm start
+```
