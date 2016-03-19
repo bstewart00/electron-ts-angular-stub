@@ -1,0 +1,11 @@
+{
+  "name": "electron-ts-ng-stub",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160318102130",
+    "github-electron": "registry:dt/github-electron#0.36.3+20160311011419",
+    "jquery": "registry:dt/jquery#1.10.0+20160316155526",
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Electron Typescript Angular Stub</title>
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script>
+        var nodeRequire = require; // system uses a different require internally that won't resolve node modules
+        // node dependencies
+        require('angular');
+        var System = require('systemjs');
+        
+        System.config({
+            defaultJSExtensions: true
+        });
+
+        System.import('app').then(function (app) {
+            app.start();
+        });
+    </script>
+    </head>
+    <body>
+        <div>
+            <some-directive></some-directive>
+        </div>
+    </body>
+</html>
